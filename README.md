@@ -10,7 +10,7 @@ Un petit mot en guise de `Hello World` :
 
 > Ainsi, comme toute expérience est source de progression, je tenais à vous partager ici les différents projets sur lesquels j'ai pu m'investir, que ce soit sur le plan scolaire comme sur le plan personnel, alors n'hésitez pas à aller jeter un :eyes: (voire les 2, comme ce charmant emoji), et à m'en faire un retour si vous le jugez necéssaire ! 
 
-> Je vous remercie d'avance pour l'attention que vous portez à la jeune pousse que je suis :seedling:.
+> Je vous remercie d'avance pour l'attention que vous portez à la jeune pousse :seedling: que je suis.
 
 
 
