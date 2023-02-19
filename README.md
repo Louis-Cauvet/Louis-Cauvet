@@ -6,7 +6,7 @@
 
 Un petit mot en guise de `Hello World` :
 
-> Etudiant en **développement web**, ma principale motivation est d'arriver un jour à pouvoir être capable de réaliser n'importe quel désir de n'importe quel client, afin de l'accompagner au mieux dans sa quête du site web idéal :computer::dizzy:.
+> Etudiant en **développement web**, ma principale motivation est d'arriver un jour à pouvoir être capable de réaliser les désirs de n'importe quel client, afin de l'accompagner au mieux dans sa quête du site web idéal :computer::dizzy:.
 
 > Ainsi, comme toute expérience est source de progression, je tenais à vous partager ici les différents projets sur lesquels j'ai pu m'investir, que ce soit sur le plan scolaire comme sur le plan personnel, alors n'hésitez pas à aller jeter un :eyes: (voire les 2, comme ce charmant emoji), et à m'en faire un retour si vous le jugez necéssaire ! 
 
